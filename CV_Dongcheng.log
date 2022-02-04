@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.4)  4 FEB 2022 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.4)  4 FEB 2022 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -687,27 +687,27 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 130.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 130.
-
-AED: lastpage setting LastPage
 [1
 
-{/Users/dongchengliang/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./CV_Dongcheng.aux)
+{/Users/dongchengliang/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] 
+AED: lastpage setting LastPage
+[2] (./CV_Dongcheng.aux)
 Package rerunfilecheck Info: File `CV_Dongcheng.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24297 strings out of 480247
- 451138 string characters out of 5895048
- 714823 words of memory out of 5000000
+ 24298 strings out of 480247
+ 451144 string characters out of 5895048
+ 719823 words of memory out of 5000000
  41785 multiletter control sequences out of 15000+600000
  496042 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,11n,118p,1201b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/dongchengliang/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbij8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Dongcheng.pdf (1 page, 87049 bytes).
+ 115i,11n,118p,1201b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/dongchengliang/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbij8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/dongchengliang/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on CV_Dongcheng.pdf (2 pages, 91767 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

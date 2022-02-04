@@ -34,9 +34,13 @@ SC Johnson College of Business, Cornell University \hfill 2020 <br>
 
 \flushleft _Master of Management in Hospitality_ \hfill
 
+\flushleft _GPA:X.X/4.0_ \hfill
+
 SC Johnson College of Business, Cornell University \hfill 2018 <br>
 
 \flushleft _Bachelor of Sciences_ \hfill
+
+\flushleft _GPA:X.X/4.0_ \hfill
 
  \center ___Employment___ \center
 
@@ -54,8 +58,26 @@ SC Johnson College of Business, Cornell University \hfill 2018 <br>
 
 Company 2 \hfill 2019 
 
-Experience \hfill ' '
+* Experience 1
+    * Experience 1.1
+    * Experience 1.2
+* Experience 2
+    * Experience 2.1
+    * Experience 2.2
+* Experience 3
+    * Experience 3.1
+    * Experience 3.2
+
 
 Company 3 \hfill 2018 
 
-Experience \hfill ' '
+* Experience 1
+    * Experience 1.1
+    * Experience 1.2
+* Experience 2
+    * Experience 2.1
+    * Experience 2.2
+* Experience 3
+    * Experience 3.1
+    * Experience 3.2
+
