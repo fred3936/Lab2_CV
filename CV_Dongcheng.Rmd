@@ -5,6 +5,8 @@ geometry: margin=1in
 title: "CV"
 author: Dongcheng Liang
 
+## Kate's edit/ here is the line I added
+
 jobtitle: "(he/him/himself)"
 address: "7 E Ave, Ithaca, NY 14853"
 fontawesome: yes
